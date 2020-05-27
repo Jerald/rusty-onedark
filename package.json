@@ -2,7 +2,7 @@
     "name": "vscode-rusty-onedark",
     "displayName": "Rusty One Dark",
     "description": "One Dark Theme based on Atom, but with Rust semantic highlighting!",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "Jeraldson",
     "license": "MIT",
     "galleryBanner": {
